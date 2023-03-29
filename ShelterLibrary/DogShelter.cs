@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ShelterLibrary
 {
-    internal class Shelter
+    public class DogShelter
     {
+
     }
 }
